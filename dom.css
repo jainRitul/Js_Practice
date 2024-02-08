@@ -1,0 +1,17 @@
+.green{
+    color: orange;
+}
+.underline{
+    text-decoration: underline wavy purple;
+}
+
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.divP{
+    border: solid black 2px;
+    background-color: pink;
+}
